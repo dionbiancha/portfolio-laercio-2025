@@ -38,7 +38,7 @@ const ExperienceTimeline = ({ experiences }: Props) => {
                 rel="noopener noreferrer"
                 className="inline-flex items-center text-black border border-gray-300 rounded-full px-3 py-1 text-xs mt-1 font-medium hover:bg-gray-100 transition-colors"
               >
-                Exibir credencial
+                Site Institucional
                 <HiOutlineExternalLink className="w-4 h-4 ml-2" />
               </a>
             )}
