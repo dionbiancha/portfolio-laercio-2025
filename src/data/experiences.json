@@ -2,31 +2,43 @@
   {
     "role": "Professor de Redes, Infraestrutura Cloud e Segurança",
     "company": "Uniamérica · Meio período",
-    "period": "fev de 2025 - o momento",
-    "duration": "1 ano e 6 meses"
+    "period": "",
+    "duration": ""
   },
   {
     "role": "Especialista em Infraestrutura Cloud - AWS",
     "company": "valloo  · Tempo integral",
-    "period": "nov de 2024 - o momento",
-    "duration": "1 ano e  9 meses"
+    "period": "",
+    "duration": ""
+  },
+  {
+    "role": "Líder Técnico e Especialista em Cloud",
+    "company": "SOSCONSTRUIR · Projeto Fechado",
+    "period": "",
+    "duration": ""
   },
   {
     "role": "Arquiteto de Soluções, SRE, Devops e Cloud",
     "company": "FixeCRM · Projeto Fechado",
-    "period": "nov de 2024 - dez de 2025",
-    "duration": "1 ano e 1 mês"
+    "period": "",
+    "duration": ""
+  },
+  {
+    "role": "Arquiteto de Soluções Cloud e DevOps",
+    "company": "Organizadin · Projeto Fechado",
+    "period": "",
+    "duration": ""
   },
   {
     "role": "Analista Devops",
     "company": "Tree ID · Tempo integral",
-    "period": "fev de 2023 - out de 2024",
-    "duration": "1 ano 9 meses"
+    "period": "",
+    "duration": ""
   },
   {
     "role": "Tecnico de Suporte Nº1, Nº2 e Nº3",
     "company": "Infoclinica informática",
-    "period": "jan de 2021 - dez de 2022",
-    "duration": "2 anos"
+    "period": "",
+    "duration": ""
   }
 ]
